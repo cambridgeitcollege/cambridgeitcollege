@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of Our projects are available at [https://www.github.com/cambridgeitcollege](https://www.github.com/cambridgeitcollege)
 
-- 📝 I regularly write articles on [https://www.cambridgeitinstitute.com.np](https://www.cambridgeitinstitute.com.np)
+- 📝 We regularly write articles on [https://www.cambridgeitinstitute.com.np](https://www.cambridgeitinstitute.com.np)
 
 - 💬 Ask Us about **HTML,CSS,JS,PHP,Java,C,C++,Python,Flutter,Dart,C#**
 
